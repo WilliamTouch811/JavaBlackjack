@@ -24,7 +24,7 @@ public class Card {
                 this.cardNumber = aNumber;
             }
             else{
-                System.err.println("Q&A Testing fuck off pls");
+                System.err.println("QA Error");
                 System.exit(1);
             }
 
